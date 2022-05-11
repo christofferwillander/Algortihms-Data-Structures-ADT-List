@@ -1,0 +1,18 @@
+underwear
+trousers
+trousers underwear
+shoes
+shoes underwear
+shoes trousers
+socks
+shoes socks
+watch
+belt
+belt trousers
+tie
+shirt
+tie shirt
+jacket
+jacket belt
+jacket tie
+

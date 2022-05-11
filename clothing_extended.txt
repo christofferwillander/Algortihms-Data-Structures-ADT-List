@@ -1,0 +1,21 @@
+tie
+shirt
+tie shirt
+trousers
+underwear
+trousers underwear
+shoes
+shoes underwear
+shoes trousers
+socks
+shoes socks
+watch
+belt
+cufflinks
+cufflinks shirt
+belt trousers
+jacket
+jacket belt
+hat
+jacket tie
+cufflinks jacket
